@@ -21,7 +21,7 @@ This repository contains the source code and documentation for a native Android 
 ### Application Interfaces:
 1. **Home Screen**  
    - Includes a search bar, cart icon, and categorized menu items.  
-   - *Image Placeholder: ![Home Screen](homepage.jpg)*
+   - ![Onboard](onboard.jpeg "Screenshot of My Project")
 
 2. **Food Card Interface**  
    - Displays an image of the food, rating, price, and add-to-cart options.  
