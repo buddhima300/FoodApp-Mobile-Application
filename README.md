@@ -21,7 +21,7 @@ This repository contains the source code and documentation for a native Android 
 ### Application Interfaces:
 1. **Home Screen**  
    - Includes a search bar, cart icon, and categorized menu items.  
-   - *Image Placeholder: ![Home Screen](WhatsApp Image 2024-06-01 at 21.30.09.jpeg)*
+   - *Image Placeholder: ![Home Screen](homepage.jpg)*
 
 2. **Food Card Interface**  
    - Displays an image of the food, rating, price, and add-to-cart options.  
