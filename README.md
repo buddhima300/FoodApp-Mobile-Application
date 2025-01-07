@@ -1,4 +1,4 @@
-Here is a generated `README.md` file for your food ordering mobile application project based on the uploaded document:
+
 
 ```markdown
 # Food Ordering Mobile Application 📱🍴
@@ -16,22 +16,7 @@ This repository contains the source code and documentation for a native Android 
 - **Scalability**: Designed to support future features like payment gateway integration.
 
 ---
-
-## Screenshots 📸
-### Application Interfaces:
-1. **Home Screen**  
-   - Includes a search bar, cart icon, and categorized menu items.  
-   - ![Onboard](onboard.jpeg "Screenshot of My Project")
-
-2. **Food Card Interface**  
-   - Displays an image of the food, rating, price, and add-to-cart options.  
-   - *Image Placeholder: ![Food Card](path/to/food_card.png)*
-
-3. **Cart Management**  
-   - Shows bill amounts and allows coupon application.  
-   - *Image Placeholder: ![Cart Interface](path/to/cart_interface.png)*
-
-More interface screenshots can be found in the `screenshots/` directory.
+![Homepage](homepage.jpg "Homepage Screenshot")
 
 ---
 
