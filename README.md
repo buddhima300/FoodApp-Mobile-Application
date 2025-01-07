@@ -16,8 +16,6 @@ This repository contains the source code and documentation for a native Android 
 - **Scalability**: Designed to support future features like payment gateway integration.
 
 ---
-![Homepage](homepage.jpeg "Homepage Screenshot")
-
 ---
 
 ## Technologies Used 🛠️
